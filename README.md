@@ -62,10 +62,6 @@ This project provides an in-depth analysis of employee attrition at Green Destin
 ## Conclusion
 The attrition analysis highlights critical areas for HR action to reduce turnover and improve employee satisfaction. Implementing data-driven strategies will support better retention and foster a positive workplace environment.
 
-## Contact
-For further information or questions, please reach out to:
-[Your Name] - [Your Contact Information]
-
 ---
 **Thank you for reviewing this project!**
 
